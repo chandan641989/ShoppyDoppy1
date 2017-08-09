@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShoppyDoppy</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="server_client_id">615305309351-lgv3dbpdg6a95i38jiagj9jmi5lf1don.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">296864330786988</string>
+    <string name="fb_login_protocol_scheme">fb296864330786988</string>
+
+</resources>

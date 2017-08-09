@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615305309351",
+    "project_id": "shoppydoppy-175709"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615305309351:android:e2617bae41d0fb96",
+        "android_client_info": {
+          "package_name": "com.kartnap.chandan.shoppydoppy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615305309351-c19p3691lupfuigb4ps5rqaopkrdoqnu.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "615305309351-lgv3dbpdg6a95i38jiagj9jmi5lf1don.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kartnap.chandan.shoppydoppy",
+            "certificate_hash": "ffd5dcf5a2daa5b02fa7fd404012895a906b734e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtv7_EBmawf1qmNwuMA7DHUdxavPP01Is"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
